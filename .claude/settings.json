@@ -1,0 +1,8 @@
+{
+  "companyAnnouncements": [
+    "Exploring Beyond MCP: Compare MCP Servers, CLI, File System Scripts, and Skills approaches",
+    "Remember: MCP Servers trade context for simplicity and reusability. Explore the alternatives!",
+    "Check out each approach: 1_mcp_server, 2_cli, 3_file_system_scripts, 4_skill",
+    "Context preservation vs. instant tooling: Understand the engineering trade-offs"
+  ]
+}

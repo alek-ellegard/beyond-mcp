@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "kalshi": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "apps/1_mcp_server",
+        "python",
+        "server.py"
+      ],
+      "env": {}
+    }
+  }
+}

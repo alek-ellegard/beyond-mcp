@@ -1,0 +1,45 @@
+[project]
+name = "kalshi-cli"
+version = "0.1.0"
+description = "CLI tool for querying Kalshi prediction markets using official SDK"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "IndyDevDan" }
+]
+
+dependencies = [
+    "httpx>=0.27.0",
+    "click>=8.0.0",
+    "pandas>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "ruff",
+]
+
+[project.scripts]
+kalshi = "kalshi_cli:cli"
+kalshi-cli = "kalshi_cli:cli"
+main = "kalshi_cli:cli"
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.0.0",
+]
+
+[tool.black]
+line-length = 100
+target-version = ['py39']
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
