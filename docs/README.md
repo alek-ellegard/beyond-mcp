@@ -15,6 +15,10 @@ New to this? Read in this order:
 - 📋 **[Cheat Sheet](cheat-sheet.md)** - One-page quick reference
 - 📖 **[Glossary](glossary.md)** - Simple definitions of confusing terms
 
+**Deep dives:**
+- 🎯 **[Standalone Scripts Deep Dive](standalone-scripts-deep-dive.md)** - Understanding `uv` + inline dependencies
+- 🔍 **[Examples Walkthrough](examples-walkthrough.md)** - Real code from the repo explained
+
 ---
 
 ## Quick Summary
@@ -102,12 +106,17 @@ Start here:
 
 | Document | Purpose | Read Time |
 |----------|---------|-----------|
+| **Core Docs** | | |
 | [The Big Idea](eli5-overview.md) | Understand the core problem | 2 min |
 | [The 4 Approaches](eli5-four-approaches.md) | Learn all 4 methods | 5 min |
 | [Decision Guide](eli5-decision-guide.md) | Choose the right approach | 3 min |
 | [Best Practices](eli5-best-practices.md) | Build better AI tools | 8 min |
+| **Quick Reference** | | |
 | [Cheat Sheet](cheat-sheet.md) | Quick reference guide | 1 min |
 | [Glossary](glossary.md) | Term definitions | Reference |
+| **Deep Dives** | | |
+| [Standalone Scripts Deep Dive](standalone-scripts-deep-dive.md) | `uv` + inline dependencies explained | 10 min |
+| [Examples Walkthrough](examples-walkthrough.md) | Real code examples analyzed | 12 min |
 
 ---
 
