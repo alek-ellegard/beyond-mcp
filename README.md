@@ -368,6 +368,31 @@ beyond-mcp/
 - [FastMCP Framework](https://github.com/jlowin/fastmcp)
 
 
+## 📚 Documentation
+
+**Comprehensive, LLM-optimized documentation with progressive disclosure:**
+
+→ **[Start Here: docs/README.md](docs/README.md)** - Main documentation hub
+
+### Quick Links
+
+- 🎯 [Choose an approach](docs/guides/decision-guide.md) - Decision tree
+- 📖 [Learn best practices](docs/guides/best-practices.md) - Build better AI tools
+- 🔍 [Compare approaches](docs/approaches/README.md) - Detailed breakdown
+- 📋 [Cheat sheet](docs/reference/cheat-sheet.md) - One-page reference
+- 🔬 [Deep dives](docs/deep-dives/README.md) - Technical deep dives
+
+**Documentation Structure:**
+- **overview/** - What is beyond-mcp and why it matters
+- **approaches/** - Detailed breakdown of all 4 approaches
+- **guides/** - Practical guidance and best practices
+- **reference/** - Quick lookups and comparisons
+- **deep-dives/** - In-depth technical explorations
+
+The documentation uses **progressive disclosure** - start with the main README, then navigate to specific topics as needed. Optimized for both humans and LLMs.
+
+---
+
 ## Master **Agentic Coding**
 > Prepare for the future of software engineering
 
